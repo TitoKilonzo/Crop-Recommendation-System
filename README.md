@@ -1,5 +1,7 @@
 # 🌾 Predictive Crop Recommendation System
 
+To test Click: https://crop-recommendation-system-ccuww3jn9-synth-link.vercel.app/
+
 > A data science web application that identifies the **single best soil feature** for crop prediction and runs a live AI-powered classifier — built with React + Vite + Claude API.
 
 ---
